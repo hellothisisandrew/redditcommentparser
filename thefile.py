@@ -4,7 +4,7 @@ subreddit_list = ['funny','askreddit','gaming','aww','pics','science','worldnews
 
 reddit = praw.Reddit(client_id="_f6T1aPrwfeugw",
                      client_secret="eNmlFBwuITKGemz_Ua53eZqc8VU-vQ",
-                     password="Randomletters1",
+                     password="-------Password---------",
                      user_agent="testscript by u/fakebot3",
                      username="dfusiauewhiufn")
 
